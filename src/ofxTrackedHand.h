@@ -62,10 +62,11 @@ public:
 	void				setFilterFactor(float factor);
 	float				getFilterFactor();
 
-private:
-
 	ofxTrackedHand(ofxOpenNIContext* pContext);
 
+private:
+
+	
 	xn::DepthGenerator	depth_generator;
 
 	float				xres, yres, zres;
