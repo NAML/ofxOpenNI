@@ -1,6 +1,8 @@
 /*
  * ofxGestureGenerator.cpp
- *
+ * 2012 Diex @ NAML 
+ * forked from gameoverhack ofxOpenNI addon
+ 
  * Copyright 2011 (c) Matthew Gingold http://gingold.com.au
  * Originally forked from a project by roxlu http://www.roxlu.com/ 
  *
